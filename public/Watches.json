@@ -1,0 +1,32 @@
+[
+  {
+    "brand": "Rolex",
+    "model": "Submariner",
+    "price": 12000,
+    "currency": "USD"
+  },
+  {
+    "brand": "Omega",
+    "model": "Speedmaster Professional",
+    "price": 6500,
+    "currency": "USD"
+  },
+  {
+    "brand": "Tag Heuer",
+    "model": "Carrera",
+    "price": 4500,
+    "currency": "USD"
+  },
+  {
+    "brand": "Seiko",
+    "model": "Prospex Diver",
+    "price": 1000,
+    "currency": "USD"
+  },
+  {
+    "brand": "Casio",
+    "model": "G-Shock DW-5600E",
+    "price": 100,
+    "currency": "USD"
+  }
+]
